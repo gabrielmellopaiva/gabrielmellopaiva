@@ -1,10 +1,3 @@
-#
-
-<p align="center">Atualmente trabalho com Windows, Illustrator, Photoshop, Visual Studio Code, Figma, XAMPP, MysqlADMIN, Premiere e Canva.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
-
 
 <h3 align="center">Connect with me!</h3>
 
