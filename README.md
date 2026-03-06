@@ -10,14 +10,14 @@ Developer • Designer • Digital Builder
 
 Hello! My name is **Gabriel Mello Paiva**.
 
-I am passionate about **technology, design and digital products**.  
+I am passionate about **technology, design and digital products**.
 Currently studying and building projects involving development, design and digital creation.
 
 ### 🎯 Current Focus
 
-• Web Development  
-• Design & Interfaces  
-• Artificial Intelligence tools  
+• Web Development
+• Design & Interfaces
+• Artificial Intelligence tools
 • Digital products and business
 
 ---
@@ -45,9 +45,9 @@ Currently studying and building projects involving development, design and digit
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -71,12 +71,15 @@ Currently studying and building projects involving development, design and digit
 # 🚀 Projects
 
 ### Landing Pages
+
 Creation of high-converting landing pages with modern design and tools.
 
 ### Web Development
+
 Projects built using HTML, CSS, JavaScript and automation tools.
 
 ### Design
+
 Interface design, branding and visual systems.
 
 ---
