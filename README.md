@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2c2c2c&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
+<h3 align="center">
 Developer • Designer • Digital Builder
-</p>
+</h3>
 
 ---
 
@@ -10,51 +10,37 @@ Developer • Designer • Digital Builder
 
 Hello! My name is **Gabriel Mello Paiva**.
 
-I am passionate about **technology, design and digital products**.
-Currently studying and building projects involving development, design and digital creation.
+I am passionate about **technology, design and digital products**.  
+Currently studying and building projects involving **development, design and AI tools**.
 
 ### 🎯 Current Focus
 
-• Web Development
-• Design & Interfaces
-• Artificial Intelligence tools
-• Digital products and business
+• Web Development  
+• UI / UX Design  
+• Artificial Intelligence Tools  
+• Digital Products & Online Business  
 
 ---
 
-## ⚡ My Tech Stack
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Technologies
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode" />
 
 </p>
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-### 📊 Github Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -62,27 +48,35 @@ Currently studying and building projects involving development, design and digit
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&line=000000&point=000000&area=true&area_color=222222&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&line=000000&point=000000"/>
 
 </p>
-
 
 ---
 
 # 🚀 Projects
 
 ### Landing Pages
-
-Creation of high-converting landing pages with modern design and tools.
+Creation of **high-converting landing pages** with modern design and optimized structure.
 
 ### Web Development
-
-Projects built using HTML, CSS, JavaScript and automation tools.
+Projects built using **HTML, CSS, JavaScript and automation tools**.
 
 ### Design
-
-Interface design, branding and visual systems.
+Interface design, branding and **visual identity systems**.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:111111&height=120&section=footer"/>
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/gabrielmellopaiva">GitHub</a> •
+<a href="#">Portfolio</a> •
+<a href="#">LinkedIn</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer"/>
