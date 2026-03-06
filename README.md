@@ -1,28 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2c2c2c&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">
+<h2 align="center">
 Developer • Designer • Digital Builder
-</h3>
+</h2>
 
 ---
 
 # 👨‍💻 About Me
 
-Hello! My name is **Gabriel Mello Paiva**.
+Hello! I'm **Gabriel Mello Paiva**.
 
-I am passionate about **technology, design and digital products**.  
-Currently studying and building projects involving **development, design and AI tools**.
-
-### 🎯 Current Focus
-
-• Web Development  
-• UI / UX Design  
-• Artificial Intelligence Tools  
-• Digital Products & Online Business  
+I’m passionate about **technology, design and digital products**.  
+Currently focused on building **web projects, interfaces and digital solutions**.
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Main Stack
 
 <p align="center">
 
@@ -32,42 +25,42 @@ Currently studying and building projects involving **development, design and AI 
 
 ---
 
-
----
-
-# 📈 Activity Graph
+# 📊 Github Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&line=000000&point=000000"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🚀 Projects
-
-### Landing Pages
-Creation of **high-converting landing pages** with modern design and optimized structure.
-
-### Web Development
-Projects built using **HTML, CSS, JavaScript and automation tools**.
-
-### Design
-Interface design, branding and **visual identity systems**.
-
----
-
-# 🌎 Connect With Me
+# 📈 Activity
 
 <p align="center">
 
-<a href="https://github.com/gabrielmellopaiva">GitHub</a> •
-<a href="#">Portfolio</a> •
-<a href="#">LinkedIn</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&line=000000&point=000000&area=true&area_color=222222&hide_border=true"/>
 
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer"/>
+# 📫 Contact
+
+<p align="center">
+
+<a href="https://github.com/gabrielmellopaiva">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:111111&height=120&section=footer"/>
