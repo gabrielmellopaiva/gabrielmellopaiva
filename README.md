@@ -22,13 +22,37 @@ Currently studying and building projects involving development, design and digit
 
 ---
 
-# 🧠 Main Stack
+## ⚡ My Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode" />
 
 </p>
+
+</td>
+
+<td width="50%">
+
+### 📊 Github Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
