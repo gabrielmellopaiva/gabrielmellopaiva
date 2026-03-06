@@ -1,30 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2c2c2c&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h2 align="center">
-Developer • Designer • Digital Builder
-</h2>
-
----
-# 👨‍💻 About Me
-
-Hello! I'm **Gabriel Mello Paiva**.
-
-I’m passionate about **technology, design and digital products**.  
-Currently focused on building **web projects, interfaces and digital solutions**.
-
----
-
-# ⚡ Main Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2c2c2c&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode" />
-
+Developer • Designer • Digital Builder
 </p>
 
 ---
 
-# 📈 Activity
+# 👨‍💻 About Me
+
+Hello! My name is **Gabriel Mello Paiva**.
+
+I am passionate about **technology, design and digital products**.
+Currently studying and building projects involving development, design and digital creation.
+
+### 🎯 Current Focus
+
+• Web Development  
+• Design & Interfaces  
+• Artificial Intelligence tools  
+• Digital products and business  
+
+---
+
+## ⚡ My Tech Stack
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Github Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -34,19 +68,16 @@ Currently focused on building **web projects, interfaces and digital solutions**
 
 ---
 
-# 📫 Contact
+# 🚀 Projects
 
-<p align="center">
+### Landing Pages
+Creation of high-converting landing pages with modern design and tools.
 
-<a href="https://github.com/gabrielmellopaiva">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Web Development
+Projects built using HTML, CSS, JavaScript and automation tools.
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+### Design
+Interface design, branding and visual systems.
 
 ---
 
