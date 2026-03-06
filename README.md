@@ -62,9 +62,10 @@ Currently studying and building projects involving development, design and digit
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&custom_title=Gabriel%20Mello%20Paiva%20Activity&bg_color=000000&color=ffffff&line=888888&point=ffffff&area=true&area_color=111111&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&line=000000&point=000000&area=true&area_color=222222&hide_border=true"/>
 
 </p>
+
 
 ---
 
