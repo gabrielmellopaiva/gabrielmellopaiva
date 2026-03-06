@@ -5,7 +5,6 @@ Developer • Designer • Digital Builder
 </h2>
 
 ---
-
 # 👨‍💻 About Me
 
 Hello! I'm **Gabriel Mello Paiva**.
@@ -20,18 +19,6 @@ Currently focused on building **web projects, interfaces and digital solutions**
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode" />
-
-</p>
-
----
-
-# 📊 Github Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
 
 </p>
 
