@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2c2c2c&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  Developer • Designer • Digital Builder
+Developer • Designer • Digital Builder
 </p>
 
 <p align="center">
@@ -16,18 +16,21 @@
 
 Hello! My name is **Gabriel Mello Paiva**.
 
-I am passionate about **technology, design and digital products**.
+I am passionate about **technology, design and digital products**.  
+Currently studying and building projects involving development, design and digital creation.
 
-Currently learning and building projects involving:
+### 🎯 Current Focus
 
 • Web Development  
 • Design & Interfaces  
 • Artificial Intelligence tools  
-• Digital business
+• Digital products and business
 
-My goal is to **build products, companies and work internationally**.
+### 🌍 Future Goals
 
-Future plan: **Live and work in Ireland.**
+• Work internationally  
+• Build digital businesses  
+• Live and work in Ireland
 
 ---
 
@@ -41,13 +44,13 @@ Future plan: **Live and work in Ireland.**
 
 ---
 
-# 📊 Github Stats
+# 📊 Github Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -57,7 +60,7 @@ Future plan: **Live and work in Ireland.**
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark"/>
 
 </p>
 
@@ -66,17 +69,17 @@ Future plan: **Live and work in Ireland.**
 # 🚀 Projects
 
 ### Landing Pages
-High converting landing pages using modern tools and design.
+Creation of high-converting landing pages with modern design and tools.
 
 ### Web Development
-Projects built with HTML, CSS, JavaScript and automation tools.
+Projects built using HTML, CSS, JavaScript and automation tools.
 
 ### Design
-Interfaces, branding and visual systems.
+Interface design, branding and visual systems.
 
 ---
 
-# 🌎 Connect with me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -92,4 +95,4 @@ Interfaces, branding and visual systems.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:111111&height=120&section=footer"/>
