@@ -26,7 +26,7 @@ Currently studying and building projects involving development, design and digit
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop,illustrator,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode"/>
 
 </p>
 
