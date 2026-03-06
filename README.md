@@ -26,31 +26,33 @@ Currently studying and building projects involving development, design and digit
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🧠 Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode"/>
 
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Github Stats
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -60,7 +62,7 @@ Currently studying and building projects involving development, design and digit
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&hide_border=true"/>
 
 </p>
 
