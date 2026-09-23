@@ -66,18 +66,4 @@ Building interactive applications and platforms using modern web technologies.
 
 ---
 
-## GitHub
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&hide_border=true&theme=github_dark)
-
----
-
-## Let's Connect
-
-[![Instagram](https://img.shields.io/badge/GAPA_AGENCY-111111?style=for-the-badge&logo=instagram)](https://instagram.com/gapaagency)
-
----
-
 <sub>Code · Design · Build · Improve.</sub>
