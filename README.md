@@ -2,92 +2,69 @@
 
 ### Developer · Designer · Founder @ GAPA Agency
 
-Building digital experiences that combine **development, design and strategy**.
+Building digital experiences through **code, design & strategy**.
 
-Based in São Paulo, Brazil 🇧🇷
+📍 São Paulo, Brazil 🇧🇷
 
 ---
 
 ## About
 
-I'm Gabriel, a developer and designer focused on creating modern digital products.
+Developer and designer focused on creating **modern websites, interfaces and digital products**.
 
-I work at the intersection of **technology, design and business**, building websites, interfaces and digital experiences with a strong focus on usability and visual identity.
+Currently studying **Systems Analysis and Development** and building **GAPA Agency**.
 
-Currently studying **Systems Analysis and Development** and building projects through **GAPA Agency**.
+```text
+> building
+web experiences
+digital products
+better interfaces
+```
 
-### Current focus
+---
 
-- Front-end Development
-- Web Development
-- UI/UX Design
-- Responsive Interfaces
-- AI-assisted Development
-- Digital Products
-- Automation
-- Building GAPA Agency
+## Focus
+
+`Front-end` · `Web Development` · `UI/UX` · `AI` · `Automation`
 
 ---
 
 ## Tech Stack
 
-### Development
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-
-### Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,git,github,vscode,figma,vercel" />
 
 ---
 
-## Featured Projects
+## Projects
 
 ### GAPA Agency
 
-Digital agency focused on creating modern websites and digital experiences for businesses.
+Digital agency focused on creating modern digital experiences for businesses.
 
-**Focus:** Web Development · UI/UX · Digital Strategy
-
----
-
-### Business Websites
-
-Development of responsive websites for local businesses, with focus on:
-
-- Performance
-- Responsive design
-- Conversion
-- SEO fundamentals
-- User experience
-- WhatsApp integration
-
----
+`Web Development` · `UI/UX` · `Digital Strategy`
 
 ### Web Applications
 
-Building interactive applications and platforms using modern web technologies.
+Modern interfaces, platforms and interactive web experiences.
 
-**Focus:** React · TypeScript · APIs · Authentication · Dashboards
+`React` · `TypeScript` · `APIs`
 
 ---
 
-## What I'm Building
+## GitHub
 
-```text
-GAPA Agency
-├── Web Development
-├── Landing Pages
-├── UI/UX Design
-├── Digital Strategy
-├── Automation
-└── AI-powered workflows
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=gabrielmellopaiva&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&hide_border=true&theme=github_dark" />
+
+---
+
+## Connect
+
+[Instagram — GAPA Agency](https://instagram.com/gapaagency)
+
+---
+
+**Design the experience. Build the solution.**
+
+`CODE` · `DESIGN` · `BUILD`
