@@ -1,84 +1,93 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2c2c2c&height=200&section=header&text=Gabriel%20Mello%20Paiva&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+# Gabriel Mello Paiva
 
-<p align="center">
-Developer • Designer • Digital Builder
-</p>
+### Developer · Designer · Founder @ GAPA Agency
 
----
+Building digital experiences that combine **development, design and strategy**.
 
-# 👨‍💻 About Me
-
-Hello! My name is **Gabriel Mello Paiva**.
-
-I am passionate about **technology, design and digital products**.
-Currently studying and building projects involving development, design and digital creation.
-
-### 🎯 Current Focus
-
-• Web Development  
-• Design & Interfaces  
-• Artificial Intelligence tools  
-• Digital products and business  
+Based in São Paulo, Brazil 🇧🇷
 
 ---
 
-## ⚡ My Tech Stack
+## About
 
-<table>
-<tr>
+I'm Gabriel, a developer and designer focused on creating modern digital products.
 
-<td width="50%" valign="top">
+I work at the intersection of **technology, design and business**, building websites, interfaces and digital experiences with a strong focus on usability and visual identity.
 
-### 🧠 Technologies
+Currently studying **Systems Analysis and Development** and building projects through **GAPA Agency**.
 
-<p align="center">
+### Current focus
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,laravel,mysql,git,github,figma,photoshop,illustrator,framer,wix,vscode"/>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Github Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielmellopaiva&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielmellopaiva&layout=compact&theme=tokyonight"/>
-
-</p>
-
-</td>
-
-</tr>
-</table>
+- Front-end Development
+- Web Development
+- UI/UX Design
+- Responsive Interfaces
+- AI-assisted Development
+- Digital Products
+- Automation
+- Building GAPA Agency
 
 ---
 
-# 📈 Activity Graph
+## Tech Stack
 
-<p align="center">
+### Development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmellopaiva&theme=github-dark&line=000000&point=000000&area=true&area_color=222222&hide_border=true"/>
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 
-</p>
+### Tools & Workflow
 
----
-
-# 🚀 Projects
-
-### Landing Pages
-Creation of high-converting landing pages with modern design and tools.
-
-### Web Development
-Projects built using HTML, CSS, JavaScript and automation tools.
-
-### Design
-Interface design, branding and visual systems.
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:111111&height=120&section=footer"/>
+## Featured Projects
+
+### GAPA Agency
+
+Digital agency focused on creating modern websites and digital experiences for businesses.
+
+**Focus:** Web Development · UI/UX · Digital Strategy
+
+---
+
+### Business Websites
+
+Development of responsive websites for local businesses, with focus on:
+
+- Performance
+- Responsive design
+- Conversion
+- SEO fundamentals
+- User experience
+- WhatsApp integration
+
+---
+
+### Web Applications
+
+Building interactive applications and platforms using modern web technologies.
+
+**Focus:** React · TypeScript · APIs · Authentication · Dashboards
+
+---
+
+## What I'm Building
+
+```text
+GAPA Agency
+├── Web Development
+├── Landing Pages
+├── UI/UX Design
+├── Digital Strategy
+├── Automation
+└── AI-powered workflows
